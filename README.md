@@ -18,15 +18,18 @@ Anonymization consists of two steps:
 Anonymize_Excel.py uses Microsoft Presidio together with Faker framework for anonymization purposes.
 
 ## Quickstart
-1. Clone the repository  
-`git clone https://github.com/Welding-Torch/Anonymize_Excel.git`
-2. Install the requirements
+1. Clone the repository
+   ```
+   git clone https://github.com/Welding-Torch/Anonymize_Excel.git
+   ```
+
+3. Install the requirements
    ```
    pip install presidio_analyzer
    pip install presidio_anonymizer
    python -m spacy download en_core_web_lg
    ```
-3. Run the demo
+4. Run the demo
    ```
    python Anonymize_Excel.py
    ```
