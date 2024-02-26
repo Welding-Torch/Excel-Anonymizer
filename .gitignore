@@ -152,4 +152,7 @@ cython_debug/
 #.idea/
 
 # Anonymized Excel Output
-anonymized_personal_information.xlsx
+personal_information-anonymized.xlsx
+
+# My Upload to PyPI Shortcut
+upload.bat
