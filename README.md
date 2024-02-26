@@ -17,6 +17,13 @@ Anonymization consists of two steps:
 
 Excel Anonymizer uses Microsoft Presidio together with Faker framework for anonymization purposes.
 
+## F.A.Q.
+1. Is this encryption?  
+   No, Excel Anonymizer does not perform encryption. Encryption implies that the data can be decrypted. XLSX files anonymized with Excel Anonymizer cannot be changed back into the original data.
+
+2. What data types can it detect and anonymize?  
+   Excel Anonymizer can detect and anonymize Name, Phone Number, Email, Location, Date/Time, and Credit Card Numbers.
+
 ## Quickstart
 1. Install Excel Anonymizer
    ```
