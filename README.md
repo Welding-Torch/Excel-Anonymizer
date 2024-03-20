@@ -24,6 +24,9 @@ Excel Anonymizer uses Microsoft Presidio together with Faker framework for anony
 2. What data types can it detect and anonymize?  
    Excel Anonymizer can detect and anonymize Name, Phone Number, Email, Location, Date/Time, and Credit Card Numbers.
 
+3. How did this project originate?  
+   I'm glad you asked, see [this](https://github.com/microsoft/presidio/discussions/1300).
+
 ## Quickstart
 1. Install Excel Anonymizer
    ```
