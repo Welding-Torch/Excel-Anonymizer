@@ -1,6 +1,8 @@
 # Excel Anonymizer
  A Python script that anonymizes an Excel file and synthesizes new data in its place.
 
+[![Downloads](https://img.shields.io/pepy/dt/excel-anonymizer?label=Downloads)](https://pepy.tech/project/excel-anonymizer)
+
 ![Excel_Anonymized_Demo](https://github.com/Welding-Torch/Anonymize_Excel/assets/46340124/78b03e03-bad0-4cb0-9b84-46e3197e9344)
 _Convert your sheets with sensitive data into anonymized data._
 
